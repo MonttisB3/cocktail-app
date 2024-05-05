@@ -35,6 +35,7 @@ npm start komento käynnistää samalla sekä react apin ja serverin. Sovellukse
 React käyttää sen oletus porttia ja node serverin portti on määritelty .env tiedostossa
 
 React app -> port 3000
+
 Node.js server -> port 5000
 
 ## Muuta
