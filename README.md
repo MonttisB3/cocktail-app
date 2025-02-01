@@ -32,7 +32,7 @@ npm start komento käynnistää samalla sekä react apin ja serverin. Sovellukse
 
 ## Käytetyt portit
 
-React käyttää sen oletus porttia ja node serverin portti on määritelty .env tiedostossa
+React käyttää sen oletus lokaali porttia ja node serverin portti on määritelty .env tiedostossa
 
 React app -> port 3000
 
